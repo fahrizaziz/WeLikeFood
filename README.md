@@ -2,6 +2,29 @@
 
 A new Flutter project.
 
+# Builde With
+
+- flutter bloc
+- google fonts
+- supercharged
+- get
+- material design icon
+- intl
+- equatable
+- sliding up panel
+- bloc
+- url launcher
+- sliding up panel
+- supercharged
+- lottie
+- material design icons flutter
+
+## Demo
+
+
+![Ui Welikefood](https://user-images.githubusercontent.com/63221929/129024302-8f2c9ecd-9ad6-4baf-81e0-7f2ddb8f369f.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
